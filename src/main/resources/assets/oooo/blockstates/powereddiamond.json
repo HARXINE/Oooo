@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oooo:block/powereddiamond"
+    },
+    "facing=east": {
+      "model": "oooo:block/powereddiamond",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oooo:block/powereddiamond",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oooo:block/powereddiamond",
+      "y": 270
+    }
+  }
+}
