@@ -1,36 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "HayaaaBlockIsPlacedBy",
-      "type": "procedure",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hayaaa_block_is_placed_by",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Hayaaa",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hayaaa"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.oooo.hayaaa": "Hayaaa"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
